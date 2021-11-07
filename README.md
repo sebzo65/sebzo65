@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Sebastian Penedo & I am currently training to become a Full-Stack Engineer
 
 - 🔭 I’m currently working on a client-based React project
 - 🌱 I’m currently learning Java & SpringBoot
